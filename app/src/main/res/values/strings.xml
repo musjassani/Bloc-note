@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bloc-note</string>
+    <string name="txtItalique">Italique</string>
+    <string name="txtGras">Gras</string>
+    <string name="txtSouligne">Souligné</string>
+    <string name="txtSmileys">Smileys : </string>
+    <string name="txtNoir">Noir</string>
+    <string name="txtBleu">Bleu</string>
+    <string name="txtRouge">Rouge</string>
+    <string name="txtCacher">Cacher</string>
+    <string name="txtAfficher">Afficher</string>
+    <string name="txtEdition">Edition : </string>
+    <string name="txtPrevisialisation">Prévisualisation : </string>
+</resources>
