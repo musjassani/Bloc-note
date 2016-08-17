@@ -129,6 +129,7 @@
             android:layout_height="1dp"
             android:background="@android:color/darker_gray"
             android:layout_below="@id/btnCacher" />
+
         <TableLayout
             android:id="@+id/tableLayout"
             android:layout_width="match_parent"
@@ -155,5 +156,14 @@
                 <TextView android:id="@+id/previsialisationTextView" android:lines="3"/>
             </TableRow>
         </TableLayout>
+
+        <AnalogClock
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/analogClock"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/tableLayout"
+            android:layout_marginTop="@dimen/line_space"/>
+
     </RelativeLayout>
 </ScrollView>
